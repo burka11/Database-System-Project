@@ -1,3 +1,4 @@
 # Database-System-Project
 
-Haçen projectedited.sql var yukarıda ona tıkla çalıştur daaa
+<h1> Database Systems dersi için geliştirilmiş olan Galeri Otomasyonu Projesi için geliştirilmiş bir veritabanı tasarımıdır. </h1>
+
