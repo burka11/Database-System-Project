@@ -1,4 +1,4 @@
 # Database-System-Project
 
-<h3> Database Systems dersi için geliştirilmiş olan Galeri Otomasyonu Projesi için geliştirilmiş bir veritabanı tasarımıdır. </h1>
+<h3> Bu repo, <b>database systems</b> dersi için geliştirilmiş olan Galeri Otomasyonu Projesinin veritabanı tasarımını içerir. </h1>
 
